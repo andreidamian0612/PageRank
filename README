@@ -1,0 +1,21 @@
+Damian Andrei Nicolae 312CB
+Task1 : -citesc din fisier elementele
+        -construiesc matricea de adiacenta punand 0 daca nodul are link catre el insusi
+        -construiesc matricea K(inversa matricei de adiacenta)
+        -aplic algoritmul din enunt pana cand eroarea e mai mica decat eps
+Task2:  -citesc din fisier
+        -fac matricea de adiacenta
+        -notez matricea X ca fiind (I-d*M)
+        -fac inversa matricei X cu Gram Schmidt,rezolvand un sistem superior triunghiular
+        -aplic formula din enunt pt a afla R
+Task3:  -citesc din fisier
+        -construiesc matricea de adiacenta
+        -construiesc matricea K
+        -aplic formula din enunt pt a afla R
+Task4:  -Apartententa-construiesc functia ceruta
+        -citesc din fisier pana la val1 si val2
+        -afisez R1
+        -afisez R2
+        -afisez R3
+        -sortez vectorul PR1
+        -afisez afisez indicele i,indicele sau corespunzator din PR1(j) si valoarea F
